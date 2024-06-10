@@ -35,4 +35,3 @@
 - Game AI
 - Autonomous vehicles
 - Personalized recommendations
-- 
